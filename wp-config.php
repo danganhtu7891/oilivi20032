@@ -1,4 +1,6 @@
 <?php
+define('WP_HOME','http://localhost/oilivi20032');
+define('WP_SITEURL','http://localhost/oilivi20032');
 /**
  * The base configuration for WordPress
  *
@@ -20,7 +22,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'oili');
+define('DB_NAME', 'oili2003');
 
 /** MySQL database username */
 define('DB_USER', 'root');
